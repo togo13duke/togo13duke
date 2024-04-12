@@ -34,3 +34,10 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=togo13duke&show_icons=true&locale=en" alt="togo13duke" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=togo13duke&" alt="togo13duke" /></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/togo13duke/togo13duke/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/togo13duke/togo13duke/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/togo13duke/togo13duke/output/github-contribution-grid-snake.svg">
+</picture>
+
