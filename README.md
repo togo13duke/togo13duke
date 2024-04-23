@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm duke13</h1>
 
-<img align="right" width="150px" src="https://gitea.duke13.com/togo/iBeats/media/branch/main/files/heart.svg"/>
+<a href="https://github.com/togo13duke/iBeats"><img align="right" width="150px" src="https://raw.githubusercontent.com/togo13duke/iBeats/main/files/heart.svg"/>
 
 <h3 align="center">A passionate fullstack developer from Japan</h3>
 
