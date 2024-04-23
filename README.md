@@ -29,7 +29,7 @@
 
 - 📝 I regularly write articles on [https://garden.duke13.com/](https://garden.duke13.com/)
 
-- 📫 How to reach me **https://twitter.com/togo13duke001**
+- 📫 How to reach me **<a class="Link--primary" href="mailto:duke13@duck.com">duke13@duck.com</a>**
 
 - 📄 Know about my experiences **https://www.linkedin.com/in/togo13duke/**
 
