@@ -30,7 +30,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=togo13duke&&row=2&column=4&margin-w=5&margin-h=5&no-bg=false&no-frame=true&title=MultiLanguage,LongTimeUser,AncientUser,Stars,Followers,Repositories,Issue,PullRequest" alt="togo13duke" /></a> </p>
 
-- 💬 Ask me about **c#, .net, azure, devops, docker, kubernetes**
+- 💬 Ask me about **c#, .net, azure, devops, linux, mac**
 
 - 📝 I regularly write articles on [https://garden.duke13.com/](https://garden.duke13.com/)
 
