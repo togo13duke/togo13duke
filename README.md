@@ -10,7 +10,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/togo13duke/togo13duke/output/github-contribution-grid-snake.svg">
 </picture>
 
-<p align="center"> <a href="https://twitter.com/togo13duke001" target="blank"><img src="https://img.shields.io/twitter/follow/togo13duke001?logo=twitter&style=for-the-badge" alt="togo13duke001" /></a> </p>
+<p align="center"> <a href="https://twitter.com/duke13_666" target="blank"><img src="https://img.shields.io/twitter/follow/duke13_666?logo=twitter&style=for-the-badge" alt="duke13" /></a> </p>
 
 <p align="center">
 
