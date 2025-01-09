@@ -25,15 +25,6 @@
 
 - 💬 Ask me about **c#, .net, azure, devops, linux, mac**
 
-- 📝 I regularly write articles on [medium](https://duke13hs.medium.com/)
+- 📝 I regularly write articles on [here](https://blog.duke13.com/)
 
 - 📫 How to reach me **<a class="Link--primary" href="mailto:duke13@duck.com">duke13@duck.com</a>**
-
-<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=togo13duke&show_icons=true&locale=en&layout=compact" alt="togo13duke" /></p> -->
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=togo13duke&show_icons=true&locale=en" alt="togo13duke" /></p>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=togo13duke&" alt="togo13duke" /></p>
-
-
-
