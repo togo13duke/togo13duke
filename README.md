@@ -27,4 +27,4 @@
 
 - 📝 I regularly write articles on [here](https://blog.duke13.com/)
 
-- 📫 How to reach me **<a class="Link--primary" href="mailto:duke13@duck.com">duke13@duck.com</a>**
+- 📫 How to reach me **<a class="Link--primary" href="mailto:harrison_sanada@sudo-apt-update.com">harrison_sanada@sudo-apt-update.com</a>**
