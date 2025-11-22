@@ -25,6 +25,6 @@
 
 - 💬 Ask me about **c#, .net, azure, devops, linux, mac**
 
-- 📝 I regularly write articles on [here](https://garden.duke13.com/)
+- 📝 I regularly write articles on [here](https://blog.duke13.com/)
 
 - 📫 How to reach me **<a class="Link--primary" href="mailto:harrison_sanada@sudo-apt-update.com">harrison_sanada@sudo-apt-update.com</a>**
